@@ -1,0 +1,15 @@
+img {
+  border: 10px solid #cccccc;
+}
+
+h1 {
+  color: rgb(236, 61, 8);
+  font-size: 40px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(3, 63, 40);
+}
